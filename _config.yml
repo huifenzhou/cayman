@@ -3,3 +3,7 @@ description: Selected projects of Huifen Zhou.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  home_url: https://huifenzhou.github.io
+  project_url: https://huifenzhou.github.io/project
+  cv_url: https://huifenzhou.github.io/cv

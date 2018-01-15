@@ -4,12 +4,14 @@ layout: default
 
 # CV
 
-Education:      
-M.S. Statistics, University of Cincinnati, OH, USA (GPA 3.57/4.0)                                                       08/2016-12/2017                                                               M.S. Materials Science, Hunan University of Technology, Zhuzhou, China (GPA 3.84/4.0)	                 2007-2010             
-                                         Visiting student at Central South University, Changsha, China                                 2008-2010
-B.S. Statistics, Xi’an University of Finance and Economics, Xi’an, China (GPA 3.72/4.0)	                 2003-2007           
-Professional Experience:
-Data Analyst Intern, Pacific Northwest National Laboratory, Richland, WA, USA                               06/2017-08/2017
+**Education:**
+**M.S. Statistics**, University of Cincinnati, OH, USA (GPA 3.57/4.0) 08/2016-12/2017
+**M.S. Materials Science**, Hunan University of Technology, Zhuzhou, China (GPA 3.84/4.0) 2007-2010
+                            Visiting student at Central South University, Changsha, China 2008-2010
+**B.S. Statistics**, Xi’an University of Finance and Economics, Xi’an, China (GPA 3.72/4.0) 2003-2007           
+
+**Professional Experience:**
+**Data Analyst Intern**, Pacific Northwest National Laboratory, Richland, WA, USA 06/2017-08/2017
 •	Collected and analyzed weather conditions and electricity demand data
 •	Collected and analyzed annual maximum series data of rain fall
 Procurement Analyst, Asia Talent Co., Ltd., Beijing, China                                                                   07/2010-02/2011

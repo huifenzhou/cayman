@@ -2,6 +2,27 @@
 layout: default
 ---
 
+
+# [](#header-1)Projects
+
+## [](#header-2)1. Election Map of Wyoming
+
+This project is to create maps showing statistics of votes in the state of Wyoming in 2016 presidential election by using **R** and **Shiny**. The online version of the maps is available at (https://huifenzhou.shinyapps.io/project). [Read more](election-map)
+
+![](map.PNG)
+
+## [](#header-2)2. Analysis of Factors Affecting University Ranking
+
+University ranking plays a key role for students in determining which university to go. There are many factors affecting the ranking. It is important to identify the most important ones contributing to ranking. The findings could serve as a guide for university management and faculty members to improve their ranking. In this project, the best universities in the world and their geographical distribution are studied first by using R. Then regression models are developed to analyze variables used in rankings. It has been found that teaching, research, citations are the top 3 factors determining the ranking of a university. [Read more](university-ranking)
+
+![](univeristy-distribution.png)
+
+## [](#header-3)3. Multivariate Statistical Analysis of Crime Data in United States
+
+University ranking plays a key role for students in determining which university to go. There are many factors affecting the ranking. It is important to identify the most important ones contributing to ranking. The findings could serve as a guide for university management and faculty members to improve their ranking. In this project, the best universities in the world and their geographical distribution are studied first by using R. Then regression models are developed to analyze variables used in rankings. It has been found that teaching, research, citations are the top 3 factors determining the ranking of a university. [Read more](university-ranking)
+
+![](univeristy-distribution.png)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](cv).
@@ -10,17 +31,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# [](#header-9)Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## [](#header-2)Header 2
+## [](#header-10)Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [](#header-11)Header 3
 
 ```js
 // Javascript code with syntax highlighting.

@@ -23,6 +23,10 @@ University ranking plays a key role for students in determining which university
 
 ![](univeristy-distribution.png)
 
+# [](#header-4)About me
+
+[Link to my CV](cv).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](cv).

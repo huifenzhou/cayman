@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+# CV
 
-_yay_
+
 
 [back](./)

@@ -19,6 +19,13 @@ University ranking plays a key role for students in determining which university
 
 ## [](#header-3)3. Multivariate Statistical Analysis of Crime Data in United States
 
-University ranking plays a key role for students in determining which university to go. There are many factors affecting the ranking. It is important to identify the most important ones contributing to ranking. The findings could serve as a guide for university management and faculty members to improve their ranking. In this project, the best universities in the world and their geographical distribution are studied first by using R. Then regression models are developed to analyze variables used in rankings. It has been found that teaching, research, citations are the top 3 factors determining the ranking of a university. [Read more](crime-data)
+Principal analysis, factor analysis and discriminant analysis methods are used to analyze crime data of United States. Principal analysis shows that different states have different types of crime. Factor analysis shows that larceny, auto theft and burglary can be considered as property crimes. Murder, assault and rape can be considered as violent crimes. Then criminal types of different states and areas are identified from the plot.. [Read more](crime-data)
 
-![](univeristy-distribution.png)
+![](crime-data-1.png)
+
+
+## [](#header-4)4. The relationship between Weather Conditions and Electricity Demand in the South of United States
+
+Principal analysis, factor analysis and discriminant analysis methods are used to analyze crime data of United States. Principal analysis shows that different states have different types of crime. Factor analysis shows that larceny, auto theft and burglary can be considered as property crimes. Murder, assault and rape can be considered as violent crimes. Then criminal types of different states and areas are identified from the plot.. [Read more](weather-electricity-demand)
+
+![](weather-1.png)

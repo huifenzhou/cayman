@@ -12,6 +12,7 @@ University ranking plays a key role for students in determining which university
 The project report can be accessed here. [https://huifenzhou.github.io/university-ranking.pdf](https://huifenzhou.github.io/university-ranking.pdf)
 
 ![](univeristy-distribution.png)
+
 *The distribution of top 200 universities in the world*
 
 ![](univeristy-ranking-1.png)
@@ -20,5 +21,5 @@ The project report can be accessed here. [https://huifenzhou.github.io/universit
 
 ![](univeristy-ranking-2.png)
 
-*TOP 10 countries by number of top 200 universities*
+*Top 10 countries by number of top 200 universities*
 

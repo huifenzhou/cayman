@@ -26,6 +26,6 @@ Principal analysis, factor analysis and discriminant analysis methods are used t
 
 ## [](#header-4)4. The relationship between Weather Conditions and Electricity Demand in the South of United States
 
-In this project, in order to evaluate the level of power system risk due to abnormal load and air temperature, a statistical analysis of historical data was used. And some useful figures are plotted. [Read more](weather-electricity-demand)
+In this project, in order to evaluate the level of power system risk due to abnormal load and air temperature, a statistical analysis of historical data is used. And some useful figures are plotted. [Read more](weather-electricity-demand)
 
 ![](weather-1.png)
